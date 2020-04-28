@@ -1,0 +1,26 @@
+body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+p .icon{
+  margin-right: 20px;
+}
+
+.name, .discription{
+  margin-bottom: 20px;
+}
+
+.discription{
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  font-family: "Inconsolata", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.about-me{
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
